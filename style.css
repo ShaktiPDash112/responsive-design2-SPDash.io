@@ -45,7 +45,7 @@ nav img{
     text-align: right;
 }
 nav.blue{     /*For sticky navigation color*/
-    background: rgba(0, 5, 37, 1);
+    background: rgba(5, 9, 30, 1);
 }
 .nav-links ul li{
     list-style: none;
