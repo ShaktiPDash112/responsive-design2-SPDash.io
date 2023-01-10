@@ -1,0 +1,69 @@
+/* Navbar */
+.nav-links ul li{
+    display: block;
+}
+.nav-links{
+    position: absolute;
+    background: #f44556;
+    height: 100vh;
+    width: 200px;
+    top: 0;
+    right: -200px;
+    text-align: left;
+    z-index: 2;
+    transition: 1s;
+}
+nav .fa{
+    display: block;
+    color: #fff;
+    margin: 10px;
+    font-size: 22px;
+    cursor: pointer;
+}
+.nav-links ul{
+    padding: 30px;
+}
+/* Heading */
+.text-box h1{
+    font-size: 30px;
+}
+/* Course */
+.course h1{
+    font-size: 25px;
+}
+.row{
+    flex-direction: column;
+}
+/* Campus */
+.campus h1{
+    font-size: 25px;
+}
+/* Facilities */
+.facilities h1{
+    font-size: 25px;
+}
+/* Testimonials */
+.testimonials h1{
+    font-size: 25px;
+}
+.testimonial-col{
+    padding: 15px;
+}
+.testimonial-col img{
+    margin-left: 0px;
+    margin-right: 15px;
+}
+/* CTA */
+.cta h1{
+    font-size: 24px;
+}
+
+
+/*********** Blog Page ***********/
+
+.sub-header h1{
+    font-size: 24px;
+}
+.blog-left h2{
+    font-size: 24px;
+}
